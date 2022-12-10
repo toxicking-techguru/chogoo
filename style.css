@@ -25,7 +25,7 @@ h1{
 }
 
 @media (min-width : 480px) and (max-width : 768px) {
-  .container{
+  body{
     font-size : 50px;
   }
 }
